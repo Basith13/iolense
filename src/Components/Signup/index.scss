@@ -1,0 +1,42 @@
+.container-signup{
+    margin:0;
+    padding: 0;
+    width: 100%;
+    justify-content: center;
+    display: flex;
+    background-size: cover;
+    background-image: url('/assets/S3.jpg');
+
+   
+ .card1{
+    height: 100vh;
+    width: 50%;
+    background-color: transparent;
+
+    
+ 
+ }   
+
+ .card2{
+     height: 100vh;
+     width: 50%; 
+     background-color:transparent;  
+
+    label{
+        margin: 5px 10px;
+    }
+  input{
+      margin: 5px 10px;
+      width: 90%;
+      text-align: left;
+  }   
+  .sign-btn{
+      text-align: center;
+      width: 50%;
+      margin: 30px  50px;
+      background-color: rgb(27, 194, 216);
+        }
+
+        
+ }   
+}

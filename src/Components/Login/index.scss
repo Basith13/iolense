@@ -1,0 +1,31 @@
+.container{
+    margin:0;
+    padding: 0;
+    
+
+ .card{
+     height: 300px;
+     width: 20%;
+     margin: 60px 500px;
+     background-color:rgb(192, 227, 228);
+
+    label{
+        margin: 5px 10px;
+    }
+  input{
+      margin: 5px 10px;
+      width: 80%;
+      text-align: center;
+  }   
+  .sign-btn{
+      text-align: center;
+      width: 50%;
+      margin: 30px  50px;
+      background-color: rgb(27, 194, 216);
+        }
+
+    .link{
+        margin: 0px  35px;
+    }    
+ }   
+}
